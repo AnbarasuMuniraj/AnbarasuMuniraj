@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Hi, I'm Anbarasu 👋
 
 💻 Java Developer  
