@@ -7,6 +7,7 @@
 
 ## Skills
 - Java
+- SQL
 - HTML
 - CSS
 - JavaScript
